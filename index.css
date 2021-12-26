@@ -1,0 +1,14 @@
+body{
+    color: rgb(7, 14, 80);
+    background-color: rgba(250, 20, 212, 1);
+
+}
+.hd{
+    width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    text-decoration: underline;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2.5px 2.5px 0.8px
+}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
